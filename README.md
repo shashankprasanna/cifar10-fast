@@ -1,6 +1,7 @@
 # cifar10-fast
 
-## *NOTE: This is a modified version of the CIFAR-10 example by davidcpage with wrappers that enable hyperparameter arguments. For illustration only, we'll not be accepting PRs.
+### NOTE: This is a modified version of the CIFAR-10 example by davidcpage, with wrappers that take hyperparameter arguments.
+### For illustration only, we'll not be accepting PRs.
 
 Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 seconds as described [in this blog series](https://www.myrtle.ai/2018/09/24/how_to_train_your_resnet/).
 
