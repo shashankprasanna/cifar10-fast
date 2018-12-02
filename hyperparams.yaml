@@ -1,0 +1,972 @@
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.2
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.4
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 5
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 8
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 32
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 128
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.9
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.95
+- hyperparam_set:
+    batch_norm: 'on'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.99
+- hyperparam_set:
+    batch_norm: 'off'
+    batch_size: 512
+    data_aug_cutout_size: 12
+    max_learning_rate: 0.6
+    momentum: 0.99

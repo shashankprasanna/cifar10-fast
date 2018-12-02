@@ -6,6 +6,10 @@ from torch import nn
 import numpy as np
 import torchvision
 import pandas as pd
+import os
+import yaml
+import pprint
+import csv
 
 torch.backends.cudnn.benchmark = True
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
@@ -171,7 +175,7 @@ class Correct(nn.Module):
     def forward(self, classifier, target):
         return classifier.max(dim = 1)[1] == target
 
-def batch_norm(num_channels, bn_bias_init=None, bn_bias_freeze=False, bn_weight_init=None, bn_weight_freeze=False):
+def batch_norm(num_channels, bn_bias_init=None, bn_bias_freeze=False, bn_weight_init=None, bn_weight_freeze=False, use_bn=True):
     m = nn.BatchNorm2d(num_channels)
     if bn_bias_init is not None:
         m.bias.data.fill_(bn_bias_init)
